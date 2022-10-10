@@ -12,11 +12,11 @@ Please feel free to contribute to other part that we didn't clone. Then add your
 1. <strong> Zeus </strong>:<br/>
    Designs the Sign up and Sign in page<br/>
    <strong>Contact Zeus on:</strong><br/>
-                    [Github]()<br/>
+                    [Github](https://github.com/Brightleao)<br/>
                     [Twitter](https://twitter.com/Brightcadasjnr?s=20&t=EVsH_vW7m2Ab4q3t-QBiXw)
 
 2. <strong> Imran Abubakar </strong>:<br/>
-   Designs the Notifications page<br/>
+   Designs the [Notifications](https://imran2975.github.io/Twitter-Clone/notification/notification.html) page<br/>
    <strong>Contact Imran on:</strong><br/>
                     [Github](github.com/imran2975)<br/>
                     [Twitter](https://twitter.com/Imran943)
@@ -24,7 +24,7 @@ Please feel free to contribute to other part that we didn't clone. Then add your
 3. <strong> Jerry </strong>:<br/>
    Designs the Search/Explore page<br/>
    <strong>Contact Jerry on:</strong><br/>
-                    [Github]()<br/>
+                    [Github](https://github.com/chim7890/chim.git)<br/>
                     [Twitter](https://twitter.com/obinalichim)
           
 4. <strong> Abdulazeez Mahmud </strong>:<br/>
